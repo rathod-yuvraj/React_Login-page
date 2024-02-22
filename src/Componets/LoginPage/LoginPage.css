@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    height: 100vh;
+    background-color: rgb(79, 199, 183);
+   
+}
+.container{
+   
+    border: 1px solid black;
+}
